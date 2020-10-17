@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Store_A/Scenes/scene_store_18.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
